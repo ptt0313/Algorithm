@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\bin\Debug\net6.0\Class2th (Sieve of Eratosthenes).exe
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\bin\Debug\net6.0\Class2th (Sieve of Eratosthenes).deps.json
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\bin\Debug\net6.0\Class2th (Sieve of Eratosthenes).runtimeconfig.json
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\bin\Debug\net6.0\Class2th (Sieve of Eratosthenes).dll
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\bin\Debug\net6.0\Class2th (Sieve of Eratosthenes).pdb
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).sourcelink.json
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).dll
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\refint\Class2th (Sieve of Eratosthenes).dll
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).pdb
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\Class2th (Sieve of Eratosthenes).genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Algorithm\Class2th (Sieve of Eratosthenes)\obj\Debug\net6.0\ref\Class2th (Sieve of Eratosthenes).dll

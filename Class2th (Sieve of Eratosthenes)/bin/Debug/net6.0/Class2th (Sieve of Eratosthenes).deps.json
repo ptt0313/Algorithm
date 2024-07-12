@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Class2th (Sieve of Eratosthenes)/1.0.0": {
+        "runtime": {
+          "Class2th (Sieve of Eratosthenes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class2th (Sieve of Eratosthenes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
